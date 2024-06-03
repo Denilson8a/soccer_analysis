@@ -1,2 +1,2 @@
 # Soccer Analysis
-[Premier League] (https://www.premierleague.com/)
+[Liga 1, Perú] (https://liga1.pe/)
